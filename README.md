@@ -1,6 +1,12 @@
 # Remote Car Control Prototype Application
 An Android App to Warm your Seat while Walking to your Car
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/OS-Android-blue)
+![](https://img.shields.io/badge/Made%20with-Java-red)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description 
 
 The aim of this project is to explore the capabilities of Android Studio to quickly develop mobile applications for a given purpose.
